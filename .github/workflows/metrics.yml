@@ -56,9 +56,6 @@ jobs:
           plugin_languages_colors: "0:00d4ff, 1:0099ff, 2:0077cc, 3:1a5276, 4:2e86c1, 5:5dade2, 6:85c1e9, 7:aed6f1"
           plugin_languages_indepth: yes
 
-          # --- Plugin: Isometric Calendar ---
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
 
           # --- Plugin: Lines of code changed ---
           plugin_lines: yes
