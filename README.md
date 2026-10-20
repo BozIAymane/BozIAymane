@@ -1,6 +1,11 @@
 <!-- ============================= HEADER ============================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d47a1,100:00d4ff&height=220&section=header&text=Aymane%20Bozian&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Big%20Data%20Developer&descSize=18&descColor=8892b0&descAlignY=55" alt="Header" width="100%"/>
+  <img src="assets/header.png" alt="Aymane Bozian - AI & Big Data Developer" width="100%"/>
+</p>
+
+<!-- Mini Groot Wave -->
+<p align="center">
+  <img src="assets/groot.gif" width="130" alt="Baby Groot waving hi" />
 </p>
 
 <!-- Typing animation -->
@@ -247,7 +252,7 @@ I'm **Aymane Bozian**, an AI & Big Data developer with an economics background a
 
 <!-- ============================= FOOTER ============================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d47a1,100:0a0e27&height=120&section=footer" alt="Footer" width="100%"/>
+  <img src="assets/footer.png" alt="Footer" width="100%"/>
 </p>
 
 <p align="center">
