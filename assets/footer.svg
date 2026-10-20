@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="900" height="80">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e27;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1137;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="footerAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#00d4ff;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#00d4ff;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="80" fill="url(#footerBg)" rx="8"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="900" height="1.5" fill="url(#footerAccent)" rx="1">
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Floating dots -->
+  <circle cx="150" cy="40" r="1" fill="#00d4ff" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="350" cy="25" r="0.8" fill="#0099ff" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.5;0.25" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="550" cy="55" r="1.2" fill="#00d4ff" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="750" cy="35" r="0.9" fill="#0077ff" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Footer text -->
+  <text x="450" y="38" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="300" fill="#5a6a8a" letter-spacing="2">
+    BUILDING THE FUTURE WITH DATA &amp; AI
+  </text>
+
+  <!-- Separator dots -->
+  <g opacity="0.4">
+    <circle cx="425" cy="55" r="1.5" fill="#00d4ff">
+      <animate attributeName="opacity" values="0.2;0.6;0.2" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="445" cy="55" r="1.5" fill="#0099ff">
+      <animate attributeName="opacity" values="0.2;0.6;0.2" dur="2s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="465" cy="55" r="1.5" fill="#0077ff">
+      <animate attributeName="opacity" values="0.2;0.6;0.2" dur="2s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
