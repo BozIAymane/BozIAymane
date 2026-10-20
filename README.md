@@ -1,23 +1,30 @@
 <!-- ============================= HEADER ============================= -->
-<div align="center">
-  <img src="assets/header.svg" alt="Aymane Bozian — AI &amp; Big Data Developer" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d47a1,100:00d4ff&height=220&section=header&text=Aymane%20Bozian&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Big%20Data%20Developer&descSize=18&descColor=8892b0&descAlignY=55" alt="Header" width="100%"/>
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Data+Engineering+%7C+Machine+Learning+%7C+Big+Data;Building+Real-Time+Streaming+%26+RAG+Applications" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- ============================= BADGES ============================= -->
-<div align="center">
+<p align="center">
+  <a href="https://github.com/BozIAymane"><img src="https://img.shields.io/badge/GitHub-BozIAymane-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/aymanebozian/"><img src="https://img.shields.io/badge/LinkedIn-aymanebozian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:aymanebozian@gmail.com"><img src="https://img.shields.io/badge/Email-aymanebozian@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-  [![GitHub](https://img.shields.io/badge/GitHub-BozIAymane-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BozIAymane)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-aymanebozian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymanebozian/)
-  [![Email](https://img.shields.io/badge/Email-aymanebozian@gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymanebozian@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BozIAymane&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=BozIAymane&color=00d4ff&style=flat-square&label=Profile+Views)
-
-</div>
-
-<br/>
+---
 
 <!-- ============================= ABOUT ME ============================= -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28"/> &nbsp;About Me
+## 🧑‍💻 &nbsp;About Me
 
 I'm **Aymane Bozian**, an AI & Big Data developer with an economics background and specialized training in Artificial Intelligence and Big Data. I build end-to-end data solutions — from real-time streaming pipelines to machine learning models and intelligent applications.
 
@@ -28,68 +35,64 @@ I'm **Aymane Bozian**, an AI & Big Data developer with an economics background a
 📍  Morocco
 ```
 
-<br/>
+---
 
 <!-- ========================= TECH STACK ========================= -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> &nbsp;Technology Stack
+## 🛠️ &nbsp;Technology Stack
 
-<table>
-  <tr>
-    <td align="center" width="160"><b>Programming</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" alt="Python, Java, C, C++" />
-      <br/>
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Data & ML</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Big Data & Streaming</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark"/>
-      <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
-      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop"/>
-      <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Cassandra"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square" alt="ChromaDB"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>DevOps & Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" alt="Git, GitHub, Docker, Linux" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Visualization</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
-    </td>
-  </tr>
-</table>
+**Programming**
 
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" alt="Python, Java, C, C++" />
+</p>
+
+**Data & Machine Learning**
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+</p>
+
+**Big Data & Streaming**
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop"/>
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Hive"/>
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" alt="ChromaDB"/>
+</p>
+
+**DevOps & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" alt="Git, GitHub, Docker, Linux" />
+</p>
+
+**Visualization**
+
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+</p>
+
+---
 
 <!-- ========================= FEATURED PROJECTS ========================= -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28"/> &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Projects
 
 <table>
   <tr>
@@ -198,10 +201,10 @@ I'm **Aymane Bozian**, an AI & Big Data developer with an economics background a
   </tr>
 </table>
 
-<br/>
+---
 
 <!-- ======================== GITHUB STATS ======================== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> &nbsp;GitHub Analytics
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BozIAymane&show_icons=true&theme=tokyonight&bg_color=0a0e27&title_color=00d4ff&icon_color=0099ff&text_color=8892b0&border_color=1a1f3e&hide_border=false&count_private=true" alt="GitHub Stats" height="180"/>
@@ -227,10 +230,10 @@ I'm **Aymane Bozian**, an AI & Big Data developer with an economics background a
   <img src="github-metrics.svg" alt="GitHub Metrics — Generated by lowlighter/metrics" width="100%"/>
 </div>
 
-<br/>
+---
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28"/> &nbsp;Contribution Graph
+## 🐍 &nbsp;Contribution Graph
 
 <div align="center">
   <picture>
@@ -240,13 +243,13 @@ I'm **Aymane Bozian**, an AI & Big Data developer with an economics background a
   </picture>
 </div>
 
-<br/>
+---
 
 <!-- ============================= FOOTER ============================= -->
-<div align="center">
-  <img src="assets/footer.svg" alt="Building the future with data and AI" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d47a1,100:0a0e27&height=120&section=footer" alt="Footer" width="100%"/>
+</p>
 
-<div align="center">
+<p align="center">
   <sub>Designed with precision · Powered by data</sub>
-</div>
+</p>
